@@ -1,0 +1,14 @@
+rbac-system/
+├── server.js                # Main server file
+├── .env                     # Environment variables
+├── config/                  # Configuration files
+│   └── db.js
+├── models/                  # Database models
+│   └── User.js
+├── middleware/              # Middleware functions
+│   └── authMiddleware.js
+├── routes/                  # API routes
+│   └── authRoutes.js
+├── utils/                   # Utility functions
+│   └── roles.js
+└── package.json             # Node.js metadata file
