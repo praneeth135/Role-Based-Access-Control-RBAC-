@@ -1,0 +1,16 @@
+* Conclusion
+You have successfully created the foundation of an RBAC system with:
+
+Authentication: Users can register and log in securely using hashed passwords and JWTs.
+Authorization: Middleware ensures users access only routes they are authorized for based on their roles.
+Role-Based Access Control: Easily scalable role definitions ensure flexibility in managing permissions.
+Next steps could include:
+
+Expanding roles and permissions.
+Integrating a frontend with this backend.
+Adding features like token refresh, logout, or audit logging.
+
+
+
+
+
